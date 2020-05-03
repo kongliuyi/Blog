@@ -21,7 +21,6 @@
 # 文章索引(Blog 暂停更新，请关注微信公众号)
 
 * Architecture
-
   * [扯扯ID](https://github.com/YunaiV/Blog/blob/master/Architecture/0001-%E8%B0%88%E8%B0%88ID.md)
   * [谈谈单元测试](https://github.com/YunaiV/Blog/blob/master/Architecture/0002-%E6%89%AF%E6%89%AF%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
   * [《2018 Java 后端工程师的书单推荐》](http://www.iocoder.cn/Architecture/books-recommended/?github)
